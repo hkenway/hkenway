@@ -24,13 +24,13 @@ I'm a software developer with a passion for creating innovative solutions and im
 ## Projects
 
 ### [Project 1: Awesome App](https://github.com/hkenway/awesome-app)
-An innovative application that solves a common problem. Built with React and Node.js.
+Description.
 
 ### [Project 2: Cool API](https://github.com/hkenway/cool-api)
-A robust and scalable API for managing resources. Developed using Django and PostgreSQL.
+Description.
 
 ### [Project 3: Smart System](https://github.com/hkenway/smart-system)
-An intelligent system that automates tasks and improves efficiency. Created with Java and Spring Boot.
+Description.
 
 ## Contact Me
 
